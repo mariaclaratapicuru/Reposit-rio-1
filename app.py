@@ -1,3 +1,7 @@
+import streamlit as st
+import pandas as pd
+import numpy as np
+
 st.write("Perguntados")
 st.text_input("Cadê o Josir?")
 st.text_input("Pêra ou maçã?")
